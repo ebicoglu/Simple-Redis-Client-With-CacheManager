@@ -1,0 +1,12 @@
+c:\users\alper.ebicoglu\documents\visual studio 2015\Projects\RedisClient\RedisClient\bin\Debug\RedisClient.exe.config
+c:\users\alper.ebicoglu\documents\visual studio 2015\Projects\RedisClient\RedisClient\bin\Debug\RedisClient.exe
+c:\users\alper.ebicoglu\documents\visual studio 2015\Projects\RedisClient\RedisClient\bin\Debug\RedisClient.pdb
+c:\users\alper.ebicoglu\documents\visual studio 2015\Projects\RedisClient\RedisClient\bin\Debug\CacheManager.Core.dll
+c:\users\alper.ebicoglu\documents\visual studio 2015\Projects\RedisClient\RedisClient\bin\Debug\CacheManager.StackExchange.Redis.dll
+c:\users\alper.ebicoglu\documents\visual studio 2015\Projects\RedisClient\RedisClient\bin\Debug\StackExchange.Redis.StrongName.dll
+c:\users\alper.ebicoglu\documents\visual studio 2015\Projects\RedisClient\RedisClient\bin\Debug\CacheManager.Core.xml
+c:\users\alper.ebicoglu\documents\visual studio 2015\Projects\RedisClient\RedisClient\bin\Debug\CacheManager.StackExchange.Redis.xml
+c:\users\alper.ebicoglu\documents\visual studio 2015\Projects\RedisClient\RedisClient\bin\Debug\StackExchange.Redis.StrongName.xml
+c:\users\alper.ebicoglu\documents\visual studio 2015\Projects\RedisClient\RedisClient\obj\Debug\RedisClient.csprojResolveAssemblyReference.cache
+c:\users\alper.ebicoglu\documents\visual studio 2015\Projects\RedisClient\RedisClient\obj\Debug\RedisClient.exe
+c:\users\alper.ebicoglu\documents\visual studio 2015\Projects\RedisClient\RedisClient\obj\Debug\RedisClient.pdb
